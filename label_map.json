@@ -1,0 +1,14 @@
+{
+  "0": "common_voices_prompts_from_conformer_fastspeech2_pwg_ljspeech",
+  "1": "generated",
+  "2": "jsut_multi_band_melgan",
+  "3": "jsut_parallel_wavegan",
+  "4": "ljspeech_full_band_melgan",
+  "5": "ljspeech_hifiGAN",
+  "6": "ljspeech_melgan",
+  "7": "ljspeech_melgan_large",
+  "8": "ljspeech_multi_band_melgan",
+  "9": "ljspeech_parallel_wavegan",
+  "10": "ljspeech_waveglow",
+  "11": "real"
+}
